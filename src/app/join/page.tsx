@@ -22,7 +22,7 @@ export default function Home() {
                 perform research in many fields such as medicine, physics, chemistry, mathematics, and computer science.
               </p>
               <div className="flex flex-col gap-4 sm:flex-row">
-                <Button variant="primary">Download for Windows</Button>
+                <Button variant="default">Download for Windows</Button>
                 <Button variant="secondary">Download for Mac</Button>
               </div>
             </div>
@@ -49,25 +49,25 @@ export default function Home() {
               <p className="text-gray-600 dark:text-gray-400 text-center">
                 Download Acme App for your iPhone and iPad.
               </p>
-              <Button variant="primary">Download for iOS</Button>
+              <Button variant="default">Download for iOS</Button>
             </div>
             <div className="flex flex-col items-center gap-4">
               <SmartphoneIcon className="h-12 w-12 text-gray-600 dark:text-gray-400" />
               <h3 className="text-xl font-semibold">Android</h3>
               <p className="text-gray-600 dark:text-gray-400 text-center">Get Acme App for your Android device.</p>
-              <Button variant="primary">Download for Android</Button>
+              <Button variant="default">Download for Android</Button>
             </div>
             <div className="flex flex-col items-center gap-4">
               <ComputerIcon className="h-12 w-12 text-gray-600 dark:text-gray-400" />
               <h3 className="text-xl font-semibold">Windows</h3>
               <p className="text-gray-600 dark:text-gray-400 text-center">Install Acme App on your Windows computer.</p>
-              <Button variant="primary">Download for Windows</Button>
+              <Button variant="default">Download for Windows</Button>
             </div>
             <div className="flex flex-col items-center gap-4">
               <AppleIcon className="h-12 w-12 text-gray-600 dark:text-gray-400" />
               <h3 className="text-xl font-semibold">macOS</h3>
               <p className="text-gray-600 dark:text-gray-400 text-center">Get Acme App for your Mac.</p>
-              <Button variant="primary">Download for macOS</Button>
+              <Button variant="default">Download for macOS</Button>
             </div>
           </div>
         </div>

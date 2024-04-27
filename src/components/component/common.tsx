@@ -47,7 +47,7 @@ export function Common() {
           <button className="text-gray-700 hover:text-gray-900 transition-colors duration-300 ease-in-out">
             <MoonIcon className="h-6 w-6 animate-spin-slow" />
           </button>
-          <button className="text-gray-700 hover:text-gray-900 md:ml-auto" href="#">
+          <button className="text-gray-700 hover:text-gray-900 md:ml-auto">
             <UserIcon className="h-6 w-6" />
           </button>
         </div>

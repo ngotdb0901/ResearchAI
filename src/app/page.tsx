@@ -42,7 +42,7 @@ export default function Home() {
                 possible.
               </p>
               <div className="flex flex-col gap-4 sm:flex-row">
-                <Button variant="primary">Explore the Research</Button>
+                <Button variant="default">Explore the Research</Button>
                 <Button variant="secondary">Learn More</Button>
               </div>
             </div>

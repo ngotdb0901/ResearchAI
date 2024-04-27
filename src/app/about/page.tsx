@@ -214,7 +214,7 @@ export default function Home() {
               Discover how ResearchAI and SimAI can transform your business or research project. Get in touch to learn
               more.
             </p>
-            <Button variant="primary">Contact Us</Button>
+            <Button variant="default">Contact Us</Button>
           </div>
         </div>
       </section>
